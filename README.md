@@ -4,10 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Gokulakrishnan](https://anandmainali.com.np)
-###> Software Engineer at [MSCC](https://softnep.com)
-
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+###> Software Engineer at [MSCC](https://msconsortium.co.in/)
 
 <div>
  <p>
@@ -36,12 +33,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![GK Techy GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
-
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![GK Techy GitHub Stats](https://github-readme-stats.vercel.app/api?username=GKTechy&show_icons=true&count_private=true)](https://github.com/GKTechy)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
