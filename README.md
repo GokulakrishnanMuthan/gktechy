@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Gokulakrishnan](https://anandmainali.com.np)
-###> Software Engineer at [MSCC](https://msconsortium.co.in/)
+### Software Engineer at [MSCC](https://msconsortium.co.in/)
 
 <div>
  <p>
