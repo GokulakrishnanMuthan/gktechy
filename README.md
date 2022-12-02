@@ -3,8 +3,8 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Gokulakrishnan](https://anandmainali.com.np)
-### Software Engineer at [MSCC](https://msconsortium.co.in/)
+### Hi there 👋 I'm [Gokulakrishnan](https://glsprofile.netlify.app/)
+### Sr. Associate - Projects at [Cognizant](https://www.cognizant.com/in/en/)
 
 <div>
  <p>
@@ -26,9 +26,6 @@ Experienced Software Engineer with a demonstrated history of working in the info
 
 ###  Tools Preference
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
-
-<img alt="IBM RTC" src="https://www.arcadsoftware.com/wp-content/uploads/2016/06/logo-IBM-rational-team-concert.png"/> 
-
 
 
 ### Github Stats
