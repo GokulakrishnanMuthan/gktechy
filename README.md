@@ -30,7 +30,7 @@ Experienced Software Engineer with a demonstrated history of working in the info
 
 ### Github Stats
 
-[![GK Techy GitHub Stats](https://github-readme-stats.vercel.app/api?username=GKTechy&show_icons=true&count_private=true)](https://github.com/GKTechy)
+[![GK Techy GitHub Stats](https://github-readme-stats.vercel.app/api?username=GokulakrishnanMuthan&show_icons=true&count_private=true)](https://github.com/GKTechy)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
